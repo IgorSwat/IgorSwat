@@ -27,7 +27,7 @@
 | [📊 **Analytica**](https://github.com/IgorSwat/Analytica) | Web app for data analysis — **Python** (backend) & **Angular** (frontend) |
 | [🧩 **Sudoku Solver**](https://github.com/IgorSwat/Sudoku-Solver) | Optimized sudoku solver (**C++**) with **SFML** GUI |
 | [📖 **Library**](https://github.com/IgorSwat/Library-App) | Library app (**Java**) with **JavaFX** (frontend) & **Spring** (backend) |
-| [👁️ **Mini-Face**](https://github.com/child-lab-uj/mini-face) | Gaze estimation module (**C++**), Python bindings via **pybind11** - part of a engineering thesis project |
+| [👁️ **Mini-Face**](https://github.com/child-lab-uj/mini-face) | Gaze estimation module (**C++**), Python bindings via **pybind11** - part of the engineering thesis project |
 
 ---
 
